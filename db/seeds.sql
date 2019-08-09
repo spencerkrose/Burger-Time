@@ -1,0 +1,5 @@
+INSERT INTO burgers (name) VALUES("Cheeseburger")
+INSERT INTO burgers (name) VALUES("Mushroom Burger")
+INSERT INTO burgers (name) VALUES("Spinach Burger")
+INSERT INTO burgers (name) VALUES("Veggie Burger")
+INSERT INTO burgers (name) VALUES("Bob's Burger")
